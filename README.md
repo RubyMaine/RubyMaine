@@ -1,7 +1,13 @@
+<div id="" align="center">
+  <img src="https://rubymaine.000webhostapp.com/rubymaine/rubymainer.png" width="100%"/>
+</div>
+
 <h1 align="center">Привет 👋, я: RubyMaine</h1>
 <h3 align="center">Увлеченный Front-End ➕ Back-End = Мобильный разработчик!</h3>
 
-![gif](https://rubymaine.000webhostapp.com/rubymaine/programmer.gif?raw=true)
+<div id="" align="center">
+  <img src="https://rubymaine.000webhostapp.com/rubymaine/programmer.gif" width="100%"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubymaine&label=Profile%20views&color=0e75b6&style=flat" alt="rubymaine" /> </p>
 
