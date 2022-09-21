@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Привет 👋, я: RubyMaine</h1>
-<h3 align="center">Увлеченный Front-End ➕ Back-End = Мобильный разработчик!</h3>
+<h1 align="center">Увлеченный Front-End ➕ Back-End = Мобильный разработчик!</h1>
 
 <div id="" align="center">
   <img src="https://rubymaine.000webhostapp.com/rubymaine/programmer.gif" width="100%"/>
